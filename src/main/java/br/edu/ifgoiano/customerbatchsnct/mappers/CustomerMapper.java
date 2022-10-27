@@ -1,6 +1,5 @@
 package br.edu.ifgoiano.customerbatchsnct.mappers;
 
-import org.springframework.batch.item.ParseException;
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
 import org.springframework.batch.item.file.transform.FieldSet;
 import org.springframework.boot.context.properties.bind.BindException;

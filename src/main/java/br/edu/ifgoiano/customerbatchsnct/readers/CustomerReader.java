@@ -3,7 +3,6 @@ package br.edu.ifgoiano.customerbatchsnct.readers;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.mapping.DefaultLineMapper;
 import org.springframework.batch.item.file.transform.DelimitedLineTokenizer;
-import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.PathResource;
 import org.springframework.stereotype.Component;
 

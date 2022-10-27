@@ -1,7 +1,6 @@
 package br.edu.ifgoiano.customerbatchsnct.processors;
 
 import java.time.LocalDateTime;
-import java.util.Optional;
 
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.stereotype.Component;
